@@ -1,0 +1,22 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+
+
+h1 {
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(118, 56, 199);
+
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
