@@ -20,7 +20,7 @@ import ao.com.fazendo.api.exame.model.Usuario;
 
 @RestController
 @CrossOrigin("*")
-@RequestMapping ("/usuarios")
+@RequestMapping ("")
 public class UsuarioController{
 	
 	@Autowired
